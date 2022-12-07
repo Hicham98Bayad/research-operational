@@ -1,9 +1,9 @@
 # research-operational
-RO
-max stable problem 
+- RO
+- max stable problem 
 
-assignment problem (example: gift bag)
+- assignment problem (example: gift bag)
 
-read a file and convert to a matrix
+- read a file and convert to a matrix
 
-a play exercise
+- a play exercise
